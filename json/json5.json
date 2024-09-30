@@ -1,0 +1,535 @@
+{
+  "name": "FABRICATION",
+  "children": [
+    {
+      "name": "Robotic Fabrication",
+      "children": [
+        {
+          "name": "Robotic Fabrication in Architecture",
+          "children": [
+            {
+              "name": "Developing A Fabrication Workflow for Irregular Sawlogs",
+              "value": 1000,
+              "children": [
+                {
+                  "name": "Conceptual Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Procedural Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Visual Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Configurational Knowledge",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "name": "Reciprocalshell: A Hybrid Timber System for Robotically-Fabricated Lightweight Shell Structures",
+              "value": 1000
+            },
+            {
+              "name": "Performance-Driven Design of A Reciprocal Frame Canopy - Timber Structure of The Futuretree",
+              "value": 1000
+            },
+            {
+              "name": "Robotic Production Immanent Design: Creative Toolpath Design in Micro and Macro Scale",
+              "value": 1000
+            },
+            {
+              "name": "Toolpath Simulation, Design and Manipulation in Robotic 3D Concrete Printing",
+              "value": 1000
+            },
+            {
+              "name": "Hybrid Digital Crafts with Collaborative Robotics",
+              "value": 1000
+            },
+            {
+              "name": "CAM as A Tool for Creative Expression - Informing Digital Fabrication Through Human Interaction",
+              "value": 1000
+            },
+            {
+              "name": "Robotic Constraints Informed Design Process",
+              "value": 1000
+            },
+            {
+              "name": "Integrating Large-Scale Additive Manufacturing and Bioplastic Compounds for Architectural Acoustic Performance",
+              "value": 1000
+            },
+            {
+              "name": "Robotically Fabricated Thin-Shell Vaulting: A Method for The Integration of Multi-Axis Fabrication Processes with Algorithmic Form-Finding Techniques",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Human-Robot Collaboration in Design",
+          "children": [
+            {
+              "name": "Reality Is Interface: Two Motion Capture Case Studies of Human-machine Collaboration in High-Skill Domains",
+              "value": 1000
+            },
+            {
+              "name": "Pop Up Factory : Collaborative Design in Mixed Reality - Interactive Live Installation for The Makecity Festival, 2018 Berlin",
+              "value": 1000
+            },
+            {
+              "name": "Collaborative Robotic Masonry and Early Stage Fatigue Prediction",
+              "value": 1000,
+              "children": [
+                {
+                  "name": "Conceptual Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Procedural Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Visual Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Configurational Knowledge",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "name": "Designing with A Robot - Interactive Methods for Brick Wall Design Using Computer Vision",
+              "value": 1000
+            },
+            {
+              "name": "Toward A Taxonomy of Architectural Robotics",
+              "value": 1000
+            },
+            {
+              "name": "Cobuilt 40: Investigating The Potential of Collaborative Robotics for Subject Matter Experts",
+              "value": 1000
+            },
+            {
+              "name": "On-Site Fabrication and Assembly for Arid Region Settlements",
+              "value": 1000
+            },
+            {
+              "name": "Robotrack - Linking Manual and Robotic Design Processes By Motion-Tracking",
+              "value": 1000
+            },
+            {
+              "name": "Collaborative Construction: Human and Robotic Collaboration Enabling The Fabrication and Assembly of A Filament-Wound Structure",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Material Innovation and Sustainable Design",
+          "children": [
+            {
+              "name": "Performative Wood",
+              "value": 1000,
+              "children": [
+                {
+                  "name": "Conceptual Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Procedural Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Visual Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Configurational Knowledge",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "name": "Low Fidelity",
+              "value": 1000
+            },
+            {
+              "name": "Hygroskin: A Prototype Project for The Development of A Constructional and Climate Responsive Architectural System Based on The Elastic and Hygroscopic Properties of Wood",
+              "value": 1000
+            },
+            {
+              "name": "Sustainable Rapid Prototyping with Fungus-Like Adhesive Materials",
+              "value": 1000
+            },
+            {
+              "name": "Tailored Flexibility - Reinforcing Concrete Fabric Formwork with 3D Printed Plastics",
+              "value": 1000
+            },
+            {
+              "name": "Bio-Inspired and Fabrication-Informed Design Strategies for Modular Fibrous Structures in Architecture",
+              "value": 1000
+            },
+            {
+              "name": "Robotic Fabrication with Cork: Emerging Opportunities in Architecture and Building Construction",
+              "value": 1000
+            },
+            {
+              "name": "Silica - A Circular Material Paradigm By 3D Printing Recycled Glass",
+              "value": 1000
+            },
+            {
+              "name": "Robotic Fabrication of Sustainable Hybrid Formwork",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Robotic Printing and Additive Manufacturing",
+          "children": [
+            {
+              "name": "Extrusion-Based 3D Printing for Recyclable Gypsum",
+              "value": 1000,
+              "children": [
+                {
+                  "name": "Conceptual Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Procedural Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Visual Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Configurational Knowledge",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "name": "Robotic Fabrication of Topology Optimized Concrete Components with Reusable Formwork",
+              "value": 1000
+            },
+            {
+              "name": "Robot-Aided Fabrication of Materially Efficient Complex Concrete Assemblies",
+              "value": 1000
+            },
+            {
+              "name": "Robot-Aided Fabrication of Light-Weight Structures with Sheet Metal Expansion",
+              "value": 1000
+            },
+            {
+              "name": "Robotic Additive Manufacturing of Glass Structures",
+              "value": 1000
+            },
+            {
+              "name": "Large Format Fdm Printing of Recycled Plastic Pellets",
+              "value": 1000
+            },
+            {
+              "name": "Digital Architextiles - Nonwoven Textile Thermoforming in Robotic Fabrication",
+              "value": 1000
+            },
+            {
+              "name": "3D Concrete Printing with Variable Width Filament",
+              "value": 1000
+            },
+            {
+              "name": "Digital Design and Fabrication of A 3D Concrete Printed Prestressed Bridge",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Innovative Design and Computational Methods",
+          "children": [
+            {
+              "name": "Connecting Timber Sheet Materials to Create A Self-Supporting Structure Using Robotic Fabrication and Computational Tools",
+              "value": 1000,
+              "children": [
+                {
+                  "name": "Conceptual Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Procedural Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Visual Knowledge",
+                  "value": 100
+                },
+                {
+                  "name": "Configurational Knowledge",
+                  "value": 100
+                }
+              ]
+            },
+            {
+              "name": "Innovative Design Approach to Optimized Performance on Large-Scale Robotic 3D-Printed Spatial Structure",
+              "value": 1000
+            },
+            {
+              "name": "Computational Design Synthesis: Embedding Material Behaviour in Generative Computational Processes",
+              "value": 1000
+            },
+            {
+              "name": "Methods for The Prediction and Specification of Functionally Graded Multi-Grain Responsive Timber Composites",
+              "value": 1000
+            },
+            {
+              "name": "The Digital Touch - Towards Novel Modeling Frameworks for Robotically-Enhanced Marble Sculpting",
+              "value": 1000
+            },
+            {
+              "name": "Adaptive Growth Using Robotic Fabrication",
+              "value": 1000
+            },
+            {
+              "name": "A Generative Approach to Robotic Fabrication",
+              "value": 1000
+            },
+            {
+              "name": "Machine Learning for Architectural Design: Practices and Infrastructure",
+              "value": 1000
+            },
+            {
+              "name": "Towards Machine Learning for Architectural Fabrication in The Age of Industry 4.0",
+              "value": 1000
+            },
+            {
+              "name": "Investigations in Robotic-Assisted Design: Strategies for Symbiotic Agencies in Material-Directed Generative Design Processes",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Precision Robotic Fabrication",
+      "children": [
+        {
+          "name": "6 Axis Robotic Fabrication",
+          "value": 1000
+        },
+        {
+          "name": "Robotic Fabrication and Assembly",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Evolutionary Fabrication",
+      "children": [
+        {
+          "name": "Evolutionary Fabrication",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Digital Fabrication",
+      "children": [
+        {
+          "name": "Design and Digital Fabrication",
+          "children": [
+            {
+              "name": "Digital Fabrication",
+              "value": 113000
+            },
+            {
+              "name": "Digital Fabrication and Construction",
+              "value": 13000
+            },
+            {
+              "name": "Digital Design and Fabrication",
+              "value": 2000
+            },
+            {
+              "name": "Digital Design and Robotic Fabrication",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Full-Scale Digital Fabrication",
+          "children": [
+            {
+              "name": "Full Scale Digital Fabrication",
+              "value": 1000
+            },
+            {
+              "name": "1:1 Scale Fabrication",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Computational Fabrication",
+          "children": [
+            {
+              "name": "Computational Fabrication",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Additive Manufacturing",
+          "children": [
+            {
+              "name": "Additive Fabrication",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Other Fabrication Techniques",
+      "children": [
+        {
+          "name": "Adaptive and Augmented Fabrication",
+          "children": [
+            {
+              "name": "Adaptive Fabrication",
+              "value": 2000
+            },
+            {
+              "name": "Augmented Fabrication",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Generative Fabrication",
+          "children": [
+            {
+              "name": "Generative Fabrication",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Composite Fabrication",
+          "children": [
+            {
+              "name": "Composite Fabrication",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "CNC and Design Fabrication",
+          "children": [
+            {
+              "name": "Design Fabrication",
+              "value": 1000
+            },
+            {
+              "name": "Cnc Fabrication",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Modular and Workflow Fabrication",
+          "children": [
+            {
+              "name": "Modular Fabrication",
+              "value": 1000
+            },
+            {
+              "name": "Fabrication Workflow",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Analog/Digital Fabrication and Support",
+          "children": [
+            {
+              "name": "Analog / Digital Fabrication",
+              "value": 1000
+            },
+            {
+              "name": "Fabrication Support",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Specialized Fabrication",
+      "children": [
+        {
+          "name": "Materials and Fabrication",
+          "children": [
+            {
+              "name": "Concrete Fabrication",
+              "value": 3000
+            },
+            {
+              "name": "Metal Fabrication",
+              "value": 1000
+            },
+            {
+              "name": "Wood Fabrication",
+              "value": 1000
+            }
+          ]
+        },
+        {
+          "name": "Textile and Bio Fabrication",
+          "children": [
+            {
+              "name": "Textile Digital Fabrication",
+              "value": 1000
+            },
+            {
+              "name": "Eco-Digital Fabrication",
+              "value": 1000
+            },
+            {
+              "name": "Bio-Fabrication",
+              "value": 1000
+            },
+            {
+              "name": "Bio-Digital-Fabrication",
+              "value": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intersection of Digital and Robotic Fabrication",
+      "children": [
+        {
+          "name": "Hybrid Fabrication",
+          "value": 1000
+        },
+        {
+          "name": "Fabrication & Robotics",
+          "value": 7000
+        },
+        {
+          "name": "Robotic Digital Fabrication",
+          "value": 1000
+        },
+        {
+          "name": "Digital and Robotic Fabrication",
+          "value": 1000
+        },
+        {
+          "name": "Interactive Fabrication",
+          "value": 1000
+        }
+      ]
+    }
+  ]
+}

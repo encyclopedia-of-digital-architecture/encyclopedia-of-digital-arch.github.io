@@ -1,0 +1,206 @@
+{
+  "name": "Conceptual Knowledge",
+  "children": [
+    {
+      "name": "Human-Robot Collaboration",
+      "children": [
+        {
+          "name": "Natural and Humane Collaboration",
+          "value": 1000
+        },
+        {
+          "name": "Interaction Between Robot Co-worker and Assembly Line Worker",
+          "value": 1500
+        },
+        {
+          "name": "Robot Behavior",
+          "value": 1000
+        },
+        {
+          "name": "Natural Interaction",
+          "value": 1000
+        },
+        {
+          "name": "Interactive Control of Robot Arms",
+          "value": 500
+        },
+        {
+          "name": "AUR Robotic Lamp",
+          "value": 500
+        },
+        {
+          "name": "Travis by Guy Hoffman (Hoffman, 2015)",
+          "value": 500
+        },
+        {
+          "name": "Seamless Workflow",
+          "value": 1000
+        },
+        {
+          "name": "Collaborative Construction Process",
+          "value": 1000
+        }
+      ]
+    },
+    {
+      "name": "Sensing and Monitoring",
+      "children": [
+        {
+          "name": "Real-Time Posture Sensing",
+          "value": 1000
+        },
+        {
+          "name": "Muscle Activity Monitoring",
+          "value": 1000
+        },
+        {
+          "name": "Integration of Real-Time Sensing",
+          "value": 1000
+        },
+        {
+          "name": "Robot with Real-Time Sensing and Analysis",
+          "value": 1000
+        },
+        {
+          "name": "Motion Capture",
+          "value": 500
+        },
+        {
+          "name": "Body Surface Electromyography (EMG)",
+          "value": 500
+        },
+        {
+          "name": "Motion Sensing",
+          "value": 500
+        },
+        {
+          "name": "Estimation of Harmful Posture",
+          "value": 1000
+        },
+        {
+          "name": "Prediction of Muscle Fatigue",
+          "value": 1500
+        }
+      ]
+    },
+    {
+      "name": "Work-related Factors",
+      "children": [
+        {
+          "name": "Mason's Well-being and Safety",
+          "value": 1500
+        },
+        {
+          "name": "Work-Related Musculoskeletal Disorder",
+          "value": 1500
+        },
+        {
+          "name": "Cumulative Effect of Load",
+          "value": 1500
+        },
+        {
+          "name": "Biomechanically Harmful Posture",
+          "value": 2000
+        },
+        {
+          "name": "Repetitive Cycle of Work",
+          "value": 1500
+        },
+        {
+          "name": "Harmful Postures",
+          "value": 1500
+        },
+        {
+          "name": "Repetitive Movements",
+          "value": 1500
+        },
+        {
+          "name": "Physical Strain Level",
+          "value": 2000
+        },
+        {
+          "name": "Biomechanical Effect",
+          "value": 1500
+        },
+        {
+          "name": "Muscle Fatigue",
+          "value": 2000
+        },
+        {
+          "name": "Fatigue in a Task Cycle",
+          "value": 1500
+        },
+        {
+          "name": "Fatigue Level",
+          "value": 1500
+        },
+        {
+          "name": "Posture Severity",
+          "value": 1500
+        },
+        {
+          "name": "Left/Right Bias",
+          "value": 1500
+        }
+      ]
+    },
+    {
+      "name": "Technical Components",
+      "children": [
+        {
+          "name": "Control System for the Robot",
+          "value": 1500
+        },
+        {
+          "name": "Robot Control Protocol",
+          "value": 1500
+        },
+        {
+          "name": "Wearable Marker",
+          "value": 1500
+        },
+        {
+          "name": "Computer Vision",
+          "value": 1500
+        },
+        {
+          "name": "Graphical User Interface (GUI)",
+          "value": 1500
+        },
+        {
+          "name": "Communication Methods",
+          "value": 1500
+        },
+        {
+          "name": "Cyber-Physical System",
+          "value": 1500
+        }
+      ]
+    },
+    {
+      "name": "Research Projects and Frameworks",
+      "children": [
+        {
+          "name": "Theoretical Framework",
+          "value": 500
+        },
+        {
+          "name": "Computational Framework",
+          "value": 500
+        },
+        {
+          "name": "Experimental Setup",
+          "value": 500
+        },
+        {
+          "name": "Evaluation and Classification Algorithms",
+          "value": 500
+        },
+        {
+          "name": "Interactive Robot Control",
+          "value": 1500
+        }
+      ]
+    }
+  ]
+}
